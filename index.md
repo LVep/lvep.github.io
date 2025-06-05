@@ -2,6 +2,7 @@
 layout: home
 title: "Welcome"
 ---
+<img src="https://uni-tuebingen.de/fileadmin/_processed_/2/2/csm_Libuse_Veprek_4079021c10.jpg" alt="Libuše Hannah Vepřek" style="width:200px;border-radius:10px;margin-bottom:1em;">
 
 Hello, I'm **Libuše Hannah Vepřek**, a cultural anthropologist and computer scientist at the University of Tübingen.
 
