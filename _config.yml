@@ -3,14 +3,14 @@ description: "Cultural anthropologist and computer scientist at the University o
 theme: minima
 markdown: kramdown
 
-# Add navigation links
 minima:
   social_links:
     github: LVep
-  navigation:
-    - title: "Home"
-      url: "/"
-    - title: "CV"
-      url: "/cv/"
-    - title: "Publications"
-      url: "/publications/"
+  # Move navigation outside social_links block
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Publications"
+    url: "/publications/"
