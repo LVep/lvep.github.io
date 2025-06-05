@@ -12,3 +12,5 @@ minima:
       url: "/"
     - title: "CV"
       url: "/cv/"
+    - title: "Publications"
+      url: "/publications/"
