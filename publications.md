@@ -6,9 +6,6 @@ permalink: /publications/
 
 # Publications
 
-**Total publications:** 28  
-Including 2 monographs, 4 edited volumes, and 8 peer-reviewed papers.
-
 ---
 
 ## 📘 Monographs
