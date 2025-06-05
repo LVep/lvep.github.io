@@ -53,16 +53,11 @@ Cultural anthropologist & computer scientist
 
 ---
 
-## Publications
-
-- [Title of Work], Journal Name, Year
-- [Another Publication], Journal, Year
-
 ## Languages
 
-- German (native), Dutch (native), English (fluent), [Other]
+- German (native), Dutch (native), English (fluent)
 
 ## Contact
 
-[Your email address]  
-[LinkedIn or ORCID if relevant]
+📧 [libuse.veprek@uni-tuebingen.de](mailto:libuse.veprek@uni-tuebingen.de) 
+
