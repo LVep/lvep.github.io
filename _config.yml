@@ -2,3 +2,13 @@ title: "Libuše Hannah Vepřek"
 description: "Cultural anthropologist and computer scientist at the University of Tübingen."
 theme: minima
 markdown: kramdown
+
+# Add navigation links
+minima:
+  social_links:
+    github: LVep
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "CV"
+      url: "/cv/"
