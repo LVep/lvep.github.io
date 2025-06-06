@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 ---
 <div style="text-align: center;">
-  <img src="https://uni-tuebingen.de/fileadmin/_processed_/6/7/csm_Libuse_Hannah_Veprek_10_2023_pic_388beec1d4.jpg" alt="Libuše Hannah Vepřek" style="width:200px;border-radius:10px;margin-bottom:1em;">
+  <img src="/website_picture_lvep.jpg" alt="Libuše Hannah Vepřek" style="width:200px;border-radius:10px;margin-bottom:1em;">
 </div>
 
 
