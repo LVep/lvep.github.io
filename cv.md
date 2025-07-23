@@ -22,7 +22,8 @@ Cultural anthropologist & computer scientist
 - **2019**: M.A. in Cultural Anthropology, Ludwig-Maximilians-University Munich  
   Thesis: *Ludwigsfeld: The (Non-)simultaneities of a Munich city district. Struggles for recognition and power of interpretation over a space between former concentration camp, residential estate for ‘Heimatlose Ausländer’ and urban living in the countryside*
 
-- **2012–2019**: Studies in European Ethnology and Cultural Analysis at the University of Regensburg and the Ludwig-Maximilians-Universität, München
+- **2016**: B.A. in European Ethnology and Cultural Analysis (minor in computer science), Ludwig-Maximilians-University Munich
+  Thesis: *Contemporary witnesses in conflict. Negotiation processes in the remembrance of Anne Frank as symbolic figure*
 
 ---
 ## Academic Positions
@@ -35,21 +36,38 @@ Cultural anthropologist & computer scientist
 
 ## Research Experience
 
+- **May 2024 – June 2024**:	Visiting researcher at the Department of Information Sciences and Arts, Toyo University, Japan 
+
+- **Since February 2024**: Co-investigator of the project *"Hybrid Epistemic Practices: Generative Artificial Intelligence and the Transformation of Academic Assemblages in the Qualitative Social Sciences and Humanities”* (funded by the BMBF and the MWK Baden-Württemberg within the framework of the Excellence Strategy of the Federal Government and the Länder (states)) at the University of Tübingen
+
 - **2021–2023**: Researcher with the DFG project *"Playing in the loop: New Human-Software Relations in Human Computation Systems and their Impacts on the Spheres of Everyday Life”* (funded by the German Research Foundation)
 
-- **October 2022 – November 2022**: Research intern with the Nancy E. and Peter C. Meinig School of Biomedical Engineering at Cornell University, Ithaca, New York
+- **December 2022**: Visiting researcher at the Department of Information Sciences and Arts, Toyo University, Japan
 
-- **August 2021 – October 2021**: Scholarship holder of the DAAD program *"IFI – Internationale Forschungsaufenthalte für Informatikerinnen und Informatiker (Doktoranden), 2019-2022 (57515303)"*
+- **October 2022 – November 2022**: Research intern with the Nancy E. and Peter C. Meinig School of Biomedical Engineering at Cornell University, Ithaca, New York
+  
+- **August 2021 – October 2021**: Research intern with the Nancy E. and Peter C. Meinig School of Biomedical Engineering at Cornell University, Ithaca, New York
+
+- **December 2019 – November 2022**: Collaborative researcher with the Human Computation Institute, Ithaca, New York
+
 
 ---
 
-## Awards and Honors
+
+## Scholarships and Awards 
+
+- **2024**: Dissertation Award of the Faculty of Cultural Studies, LMU Munich
 
 - **2022**: Best poster award for *“Assembling Spheres: Aligning human computation systems in citizen science”* at the Engaging Citizen Science Conference, Aarhus University
+
+- **August 2021 – October 2021**: Scholarship holder of the DAAD program *"IFI – Internationale Forschungsaufenthalte für Informatikerinnen und Informatiker (Doktoranden), 2019-2022 (57515303)"*
 
 - **2019**: Honorary Award of the Institute for European Ethnology and Cultural Analysis, LMU Munich
 
 - **2019**: Award of the City of Munich for University graduates (*Hochschulpreis der Landeshauptstadt München für die LMU*)
+
+- **October 2014 – September 2018**: Scholarship recipient, member of the Max Weber-Program of the State of Bavaria
+
 
 ---
 
