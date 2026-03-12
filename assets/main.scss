@@ -6,3 +6,98 @@
 body {
   background-color: #e8e8e8;
 }
+
+/* Hero card layout */
+.hero-card {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+  padding: 2.5rem;
+  margin: 3rem auto;
+  max-width: 780px;
+}
+
+.hero-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.hero-text h1 {
+  margin: 0 0 0.4rem;
+  font-size: 1.8rem;
+  line-height: 1.2;
+}
+
+.hero-role {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #444;
+  line-height: 1.5;
+}
+
+.hero-institution {
+  font-weight: 400;
+  color: #777;
+}
+
+.hero-bio {
+  margin: 0 0 1.4rem;
+  color: #555;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.45rem 1.1rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  background: #333;
+  color: #fff;
+  transition: background 0.15s;
+
+  &:hover {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+.btn-outline {
+  background: transparent;
+  color: #333;
+  border: 2px solid #333;
+
+  &:hover {
+    background: #333;
+    color: #fff;
+  }
+}
+
+/* Stack vertically on small screens */
+@media (max-width: 560px) {
+  .hero-card {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.8rem;
+  }
+
+  .hero-links {
+    justify-content: center;
+  }
+}
