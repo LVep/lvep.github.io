@@ -1,15 +1,20 @@
 ---
-layout: home
-title: "Welcome"
+layout: default
+title: "Libuše Hannah Vepřek"
 ---
-<div style="text-align: center;">
-  <img src="/assets/lhveprek_image.jpeg" alt="Libuše Hannah Vepřek" style="width:200px;border-radius:10px;margin-bottom:1em;">
+
+<div class="hero-card">
+  <img src="/assets/lhveprek_image.jpeg" alt="Libuše Hannah Vepřek" class="hero-photo">
+  <div class="hero-text">
+    <h1>Libuše Hannah Vepřek</h1>
+    <p class="hero-role">Cultural Anthropologist &amp; Computer Scientist<br>
+      <span class="hero-institution">University of Tübingen</span>
+    </p>
+    <p class="hero-bio">I study the intersections of technology, culture, and society. My work combines ethnographic fieldwork with computational methods to explore how digital systems shape human experience.</p>
+    <div class="hero-links">
+      <a href="/cv/" class="btn">CV</a>
+      <a href="/publications/" class="btn">Publications</a>
+      <a href="https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/department-of-social-sciences/historical-and-cultural-anthropology/institute/faculty-and-staff/academic-staff/libuse-hannah-veprek/" class="btn btn-outline" target="_blank">University Profile</a>
+    </div>
+  </div>
 </div>
-
-
-
-Hello, I'm **Libuše Hannah Vepřek**, a cultural anthropologist and computer scientist at the University of Tübingen.
-
-You can view my [professional profile](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/department-of-social-sciences/historical-and-cultural-anthropology/institute/faculty-and-staff/academic-staff/libuse-hannah-veprek/).
-
-This site is a personal space for sharing projects, research, and contact information.
