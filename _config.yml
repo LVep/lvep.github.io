@@ -8,8 +8,6 @@ minima:
     github: LVep
   # Move navigation outside social_links block
 navigation:
-  - title: "Home"
-    url: "/"
   - title: "CV"
     url: "/cv/"
   - title: "Publications"
