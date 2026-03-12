@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 ---
 <div style="text-align: center;">
-  <img src="/assets/website_picture_lvep.jpg" alt="Libuše Hannah Vepřek" style="width:200px;border-radius:10px;margin-bottom:1em;">
+  <img src="/assets/lhveprek_image.jpg" alt="Libuše Hannah Vepřek" style="width:200px;border-radius:10px;margin-bottom:1em;">
 </div>
 
 
